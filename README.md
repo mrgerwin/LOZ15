@@ -11,4 +11,4 @@ Extensions -
   1. Replace the if statement that will append an enemy projectile if there is one to append, with a try block.  Print an appropriate statement if a run time error occurs.
   
 Challenge -
-  1. Create another projectile for an enemy to fire.  You might have to use gimp to get the projectile from a sprite sheet.  
+  1. Create another projectile for an enemy to fire.  You might have to use gimp to get the projectile from a sprite sheet.  Make the projectile so that it can travel through walls.  Kill the projectile if it reaches any edge of the screen.  Test it in the program and debug if neccessary.  
